@@ -1,6 +1,6 @@
 # Collection of Leet Code solves in RUBY.
 
-#  TWO_SUM
+#  TWO SUM
 # def two_sum(nums, target)
 #     nums.each_with_index do |num, index|
 #       val = (target - num)
@@ -13,3 +13,15 @@
 #   end
 
 # puts two_sum(nums, target)
+
+# IS PALINDROME
+# num = 1234321
+
+# def is_palindrome(x)
+#    x.to_s.reverse.to_i == x
+# end
+
+# is_palindrome(num)
+
+# # num = 12345
+# # puts 123456.to_s.reverse.to_i
