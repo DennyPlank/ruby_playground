@@ -34,3 +34,13 @@
 # end
 
 # puts is_palindrome(s)
+
+#  LAST WORD LENGTH
+# s = 'Hello Worldasdfasdfdas'
+
+# def length_of_last_word(s)
+#      s = s.split(' ')
+#      last_word = s[s.length - 1].length
+# end
+
+# length_of_last_word(s)
