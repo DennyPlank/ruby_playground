@@ -25,3 +25,12 @@
 
 # # num = 12345
 # # puts 123456.to_s.reverse.to_i
+
+# PALINDROME WITH LETTERS
+# s = "A man, a plan, a canal: Panama"
+
+# def is_palindrome(s)
+#     puts s.gsub(/[^0-9a-z]/i, '').reverse.downcase == s.gsub(/[^0-9a-z]/i, '').downcase
+# end
+
+# puts is_palindrome(s)
