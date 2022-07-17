@@ -74,5 +74,5 @@
 
 # Merge and sort two arrays
 def merge(nums1, m, nums2, n)
-    
+    put "do something"
 end
