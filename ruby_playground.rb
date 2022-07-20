@@ -73,7 +73,14 @@
 # is_happy(n)
 
 # Merge and sort two arrays
+nums1 = [1,2,3,0,0,0]
+nums2 = [2,5,6]
+m = nums1.length
+n = nums2.length
+
 def merge(nums1, m, nums2, n)
-    put "do something"
-    #  do stuff here
+     nums1 += nums2
+     nums1.sort
 end
+
+puts merge(nums1, m, nums2, n)
