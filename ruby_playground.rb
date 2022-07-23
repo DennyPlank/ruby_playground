@@ -73,6 +73,8 @@
 # is_happy(n)
 
 # Merge and sort two arrays
+
+# The problem here is that this doesnt deal very well with the extra zeros
 nums1 = [1,2,3,0,0,0]
 nums2 = [2,5,6]
 m = nums1.length
